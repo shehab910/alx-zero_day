@@ -1,1 +1,2 @@
 in dir
+gh update
